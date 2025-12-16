@@ -155,7 +155,7 @@
       "title": "Übersicht",
       "userId": "Nutzer ID",
       "launch": "Starten",
-      "launches": "Starts",
+      "launches": "Gestartet",
       "online": "Online"
     },
     "news": {
@@ -815,7 +815,7 @@
     "warning": "Bitte überprüfen Sie, ob der Fehler bereits gemeldet wurde, bevor Sie einen Bericht erstellen. Doppelte Berichte verzögern die Behebungen.",
     "roadmap": {
       "title": "Roadmap",
-      "searchPlaceholder": "Search roadmap...",
+      "searchPlaceholder": "Durchsuche die Roadmap...",
       "allCategories": "Alle Kategorien",
       "empty": "Keine Items",
       "planned": "Geplant",
